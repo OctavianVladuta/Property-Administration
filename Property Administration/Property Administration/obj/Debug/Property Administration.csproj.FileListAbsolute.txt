@@ -1,0 +1,85 @@
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\bin\Debug\Property Administration.exe.config
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\bin\Debug\Property Administration.exe
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\bin\Debug\Property Administration.pdb
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\obj\Debug\Property Administration.csprojAssemblyReference.cache
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\obj\Debug\Property_Administration.Form1.resources
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\obj\Debug\Property_Administration.Properties.Resources.resources
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\obj\Debug\Property Administration.csproj.GenerateResource.cache
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\obj\Debug\Property Administration.csproj.CoreCompileInputs.cache
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\obj\Debug\Property Administration.exe
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\obj\Debug\Property Administration.pdb
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\obj\Debug\Property_Administration.Form2.resources
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\bin\Debug\Octokit.dll
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\bin\Debug\Octokit.xml
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\obj\Debug\Property Administration.csproj.CopyComplete
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\obj\Debug\Property_Administration.Form3.resources
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\obj\Debug\Property_Administration.Form4.resources
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\obj\Debug\Property_Administration.Form5.resources
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\obj\Debug\Property_Administration.Form6.resources
+C:\Users\Octavian\source\repos\Property Administration\Property Administration\obj\Debug\Property_Administration.Form7.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\bin\Debug\Property Administration.exe.config
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\bin\Debug\Property Administration.exe
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\bin\Debug\Property Administration.pdb
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\bin\Debug\Octokit.dll
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\bin\Debug\Octokit.xml
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property Administration.csprojAssemblyReference.cache
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property_Administration.Form1.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property_Administration.Form2.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property_Administration.Form3.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property_Administration.Form4.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property_Administration.Form5.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property_Administration.Form6.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property_Administration.Form7.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property_Administration.Properties.Resources.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property Administration.csproj.GenerateResource.cache
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property Administration.csproj.CoreCompileInputs.cache
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property Administration.csproj.CopyComplete
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property Administration.exe
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property Administration.pdb
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property_Administration.PriceFilter.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property_Administration.TypeFilter.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration fara posibilitate edit poze\Property Administration\obj\Debug\Property_Administration.YearFilter.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\bin\Debug\Property Administration.exe.config
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\bin\Debug\Property Administration.exe
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\bin\Debug\Property Administration.pdb
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\bin\Debug\Octokit.dll
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\bin\Debug\Octokit.xml
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property Administration.csprojAssemblyReference.cache
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property_Administration.Form1.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property_Administration.Form2.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property_Administration.Form3.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property_Administration.Form4.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property_Administration.Form5.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property_Administration.Form6.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property_Administration.Form7.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property_Administration.PriceFilter.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property_Administration.Properties.Resources.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property_Administration.TypeFilter.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property_Administration.YearFilter.resources
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property Administration.csproj.GenerateResource.cache
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property Administration.csproj.CoreCompileInputs.cache
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property Administration.csproj.CopyComplete
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property Administration.exe
+C:\Users\Octavian\Desktop\FACULTATE AN 2\Teme MIP\Property Administration\Property Administration\obj\Debug\Property Administration.pdb
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\bin\Debug\Property Administration.exe.config
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\bin\Debug\Property Administration.exe
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\bin\Debug\Property Administration.pdb
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\bin\Debug\Octokit.dll
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\bin\Debug\Octokit.xml
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property Administration.csprojAssemblyReference.cache
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property_Administration.Form1.resources
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property_Administration.Form2.resources
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property_Administration.Form3.resources
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property_Administration.Form4.resources
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property_Administration.Form5.resources
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property_Administration.Form6.resources
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property_Administration.Form7.resources
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property_Administration.PriceFilter.resources
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property_Administration.Properties.Resources.resources
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property_Administration.TypeFilter.resources
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property_Administration.YearFilter.resources
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property Administration.csproj.GenerateResource.cache
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property Administration.csproj.CoreCompileInputs.cache
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property Administration.csproj.CopyComplete
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property Administration.exe
+C:\Users\Octavian\Downloads\Property Administration\Property Administration\Property Administration\obj\Debug\Property Administration.pdb
